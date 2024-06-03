@@ -1,0 +1,31 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+#message {
+  font-size: 24px;
+  color: #333;
+}
+
+#guess {
+  width: 70px;
+  height: 30px;
+  font-size: 24px;
+  text-align: center;
+  position: fixed;
+}
+
+#submit {
+  background-color: #4c7aaf;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 50px;
+}
+
+#submit:hover {
+  background-color: #2b49de;
+}
